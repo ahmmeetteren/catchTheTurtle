@@ -1,1 +1,1 @@
-Drawing board with python turtle
+Catch the turtle with python turtle
